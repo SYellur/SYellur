@@ -5,9 +5,10 @@
 - 🌍 Based in Dublin, Ireland 
 - ✉️ Reach me at [suhas.yellur@hotmail.com](mailto:suhas.yellur@hotmail.com) | [LinkedIn](https://www.linkedin.com/in/suhasyellur)
 
-![suhas-github-stats](https://github-readme-stats.vercel.app/api?username=syellur&show_icons=true&theme=radical&hide_border=true)
+![Suhas's GitHub stats](https://github-readme-stats.vercel.app/api?username=syellur&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=syellur&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=syellur&layout=compact&theme=radical&hide_border=true&langs_count=10)
+
 
 ## Featured Projects
 - **FlowInspector** (AI Observability): Real-time diagnostics for LLM flows using backend logs and BPMN integration. Delivers business insights and error categorization.[file:1]
