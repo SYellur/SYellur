@@ -1,19 +1,14 @@
 # Hi 👋, I'm Suhas Yellur
 
-**Senior Backend Engineer** specializing in scalable cloud-native systems and AI-driven automation. Currently at SAP Signavio in Dublin, building event-driven microservices and LLM-powered tools like FlowInspector for real-time observability.[file:1]
+**Senior Backend Engineer** specializing in scalable cloud-native systems and AI-driven automation. Currently at SAP Signavio in Dublin, building event-driven microservices and LLM-powered tools like FlowInspector for real-time observability.
 
 - 🌍 Based in Dublin, Ireland 
 - ✉️ Reach me at [suhas.yellur@hotmail.com](mailto:suhas.yellur@hotmail.com) | [LinkedIn](https://www.linkedin.com/in/suhasyellur)
 
-![Suhas's GitHub stats](https://github-readme-stats.vercel.app/api?username=syellur&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=syellur&layout=compact&theme=radical&hide_border=true&langs_count=10)
-
-
 ## Featured Projects
-- **FlowInspector** (AI Observability): Real-time diagnostics for LLM flows using backend logs and BPMN integration. Delivers business insights and error categorization.[file:1]
-- **BPMN2Code** (In Progress): Generates app scaffolding from BPMN, cutting dev time by 70%.[file:1]
-- **SAP Solution Manager Connector**: Orchestrator for large-scale syncs with Node.js streams and Helm deployments.[file:1]
+- **FlowInspector** (AI Observability): Real-time diagnostics for LLM flows using backend logs and BPMN integration. Delivers business insights and error categorization.
+- **BPMN2Code** (In Progress): Generates app scaffolding from BPMN, cutting dev time by 70%.
+- **SAP Solution Manager Connector**: Orchestrator for large-scale syncs with Node.js streams and Helm deployments.
 
 ## Experience
 - **SAP Signavio (2022–Present)**: Senior Software Engineer – Microservices with Spring Boot/Node.js, Kubernetes CICD, Dynatrace tracing.
